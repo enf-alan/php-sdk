@@ -1,5 +1,5 @@
 {
-    "name": "enf-alan/upyun-sdk",
+    "name": "enf-alan/upyun-php-sdk",
     "description": "UPYUN sdk for php",
     "keywords": ["UPYUN", "sdk"],
     "type": "library",
